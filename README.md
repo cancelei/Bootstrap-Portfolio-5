@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <h3><b>Cancelei's Hello Project</b></h3>
+  <h3><b>Bootstrap Project</b></h3>
 
 </div>
 
@@ -28,10 +28,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 Simple Hello Project <a name="about-project"></a>
+# 📖 Portfolio Website using Bootstrap <a name="about-project"></a>
 
 
-**Simple Hello Project** is simple project that includes a HTML file with corresponding CSS styling, and a backend setup that includes specific linters that verify Html/CSS files for auto-merge capability.
 
 ## 🛠 Built With Love and Passion<a name="built-with"></a>
 
@@ -110,7 +109,14 @@ N/A
 
 > Mention all of the collaborators of this project.
 
-👤 **Author Glauber Bannwart**
+👤 **Author Peter Yeung & Glauber Bannwart**
+
+**Peter Yeung**
+
+- GitHub: [@peteryeungtt](https://github.com/peteryeungtt)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/peter-yeung-1a7251260/)
+
+**Glauber Bannwart**
 
 - GitHub: [@cancelei](https://github.com/cancelei)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/gbannwart)
