@@ -1,0 +1,9 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.poppins {
+    font-family: 'Poppins', sans;
+    font-weight: 400;
+}
