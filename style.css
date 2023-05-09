@@ -30,3 +30,19 @@
 .header-images {
     background-image: url(/images/geometry1.svg);
 }
+
+.header-images-left {
+    background: url(/images/image_dots.svg) no-repeat bottom right;
+}
+
+.rotation {
+    transform: rotate(-90deg);
+}
+
+.bg1left-image {
+    background: url(/images/image_dots.svg) right bottom no-repeat;
+}
+
+.height {
+    height: 100vh;
+}
