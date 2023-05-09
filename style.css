@@ -1,0 +1,84 @@
+.poppins {
+    font-family: 'Poppins', sans;
+    font-weight: 400;
+}
+
+.poppins-400-14 {
+    font-family: 'Poppins', sans;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.playfair-400-110 {
+    font-family: 'Playfair Display', sans;
+    font-weight: 400;
+    font-size: 110px;
+}
+
+.poppins-500-18 {
+    font-family: 'Poppins', sans;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.poppins-300-20 {
+    font-family: 'Poppins', sans;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.poppins-700-60 {
+    font-family: 'Poppins', sans;
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.header-images {
+    background-image: url(/images/geometry1.svg);
+}
+
+.header-images-left {
+    background: url(/images/image_dots.svg) no-repeat bottom right;
+}
+
+.rotation {
+    transform: rotate(-90deg);
+}
+
+.container-section {
+    margin-top: 350px;
+}
+
+.container-height {
+    height: 400px;
+}
+
+.bg1left-image {
+    background: url(/images/image_dots.svg) no-repeat;
+    padding-top: 220px;
+    position: relative;
+    right: -300px;
+    bottom: 390px
+}
+
+.bg1right-image {
+    background: url(images/ProjectSection/projectsBG1.svg) no-repeat;
+    padding-top: 220px;
+    position: relative;
+    right: -500px;
+    bottom: 610px;
+    padding-right: 0;
+}
+
+.container-hidden {
+    position: relative;
+    visibility: hidden;
+    overflow: hidden;
+    bottom: -20px;
+    padding-top: 50px;
+
+}
+
+.bg1right-image:hover .container-hidden {
+    visibility: visible;
+}
