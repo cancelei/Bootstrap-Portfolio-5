@@ -27,6 +27,18 @@
     font-size: 18px;
 }
 
+.poppins-300-20 {
+    font-family: 'Poppins', sans;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.poppins-700-60 {
+    font-family: 'Poppins', sans;
+    font-weight: 700;
+    font-size: 60px;
+}
+
 .header-images {
     background-image: url(/images/geometry1.svg);
 }
@@ -39,10 +51,37 @@
     transform: rotate(-90deg);
 }
 
-.bg1left-image {
-    background: url(/images/image_dots.svg) right bottom no-repeat;
+.container-section {
+    margin-top: 350px;
 }
 
-.height {
-    height: 100vh;
+.bg1left-image {
+    background: url(/images/image_dots.svg) no-repeat;
+    padding-top: 220px;
+    position: relative;
+    right: -300px;
+    bottom: 390px
+}
+
+.bg1right-image {
+    background: url(images/ProjectSection/projectsBG1.svg) no-repeat;
+    padding-top: 220px;
+    position: relative;
+    right: -500px;
+    bottom: 610px;
+    padding-bottom: 100px;
+    padding-right: 0;
+}
+
+.container-hidden {
+    position: relative;
+    visibility: hidden;
+    overflow: hidden;
+    bottom: -20px;
+    padding-top: 50px;
+    padding-bottom: 55px;
+}
+
+.bg1right-image:hover .container-hidden {
+    visibility: visible;
 }
