@@ -7,3 +7,26 @@
     font-family: 'Poppins', sans;
     font-weight: 400;
 }
+
+
+.poppins-400-14 {
+    font-family: 'Poppins', sans;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.playfair-400-110 {
+    font-family: 'Playfair Display', sans;
+    font-weight: 400;
+    font-size: 110px;
+}
+
+.poppins-500-18 {
+    font-family: 'Poppins', sans;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.header-images {
+    background-image: url(/images/geometry1.svg);
+}
